@@ -3,4 +3,5 @@
 
 #### Teachers:
 **Lecture:** Azamat Ordabekov
+
 **Practice:** Darkhan Kuanyshbay
