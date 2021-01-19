@@ -1,6 +1,6 @@
 # CSS - 220
 ## Advanced Algorithms
 
-####Teachers:
+#### Teachers:
 **Lecture:** Azamat Ordabekov
 **Practice:** Darkhan Kuanyshbay
